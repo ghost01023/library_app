@@ -44,10 +44,10 @@ The Library Management System is a comprehensive project developed to simplify t
 
 ## Future Enhancements
 
-1.**Book Recommendations:** Use machine learning algorithms to provide personalized book recommendations based on user preferences and borrowing history.
-2.**Online Payment Integration:** Enable online payment for fines or membership fees.
-3.**Notifications:** Send notifications to librarians and users for important events, such as new book additions, upcoming due dates, and overdue books.
-4.**Reservations and Holds:** Enable users to reserve books that are currently unavailable and notify them when the book becomes available.
+1. **Book Recommendations:** Use machine learning algorithms to provide personalized book recommendations based on user preferences and borrowing history.
+2. **Online Payment Integration:** Enable online payment for fines or membership fees.
+3. **Notifications:** Send notifications to librarians and users for important events, such as new book additions, upcoming due dates, and overdue books.
+4. **Reservations and Holds:** Enable users to reserve books that are currently unavailable and notify them when the book becomes available.
 
 ## License
 
