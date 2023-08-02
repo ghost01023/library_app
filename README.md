@@ -27,6 +27,7 @@ The Library Management System is a comprehensive project developed to simplify t
 
 - Java for the frontend GUI and application logic.
 - SQL for the backend database management.
+- XAMPP for compiling.
 
 ## How to Use
 
